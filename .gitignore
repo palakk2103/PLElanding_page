@@ -26,7 +26,6 @@ build/
 
 # IDE / Editor configuration
 .idea/
-.vscode/
 *.suo
 *.ntvs*
 *.njsproj
@@ -40,8 +39,6 @@ ehthumbs.db
 Desktop.ini
 
 # Environment variables
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -49,3 +46,7 @@ Desktop.ini
 # Serverless Webpack directories
 .webpack/
 .serverless/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
